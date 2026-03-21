@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Shrey
 
-### Security Researcher | AI & ML Enthusiast | Fullstack Developer | B.Tech CSE Student
+### Security Researcher | AI & ML Enthusiast | GATE '26 Qualified | Fullstack Developer | B.Tech CSE(AI ML) Student
 
 </div>
 
@@ -35,18 +35,23 @@ I am a 3rd Year B.Tech CSE (AIML) student at AKGEC, Ghaziabad. My passion lies a
 | Byte-Brain | An offline static malware analysis tool that detects malicious Windows PE files without cloud dependency. It uses a Random Forest classifier trained on the EMBER-2018 dataset to score threats based on entropy and suspicious imports. | [GitHub](https://github.com/Shrey42-dot/Byte-Brain) |
 | Secure Secrets | A Zero-Knowledge messaging app with "Burn-on-Read" functionality. It performs all encryption (AES-256-GCM) client-side and includes an EXIF metadata scrubber to protect user privacy before images are shared. | [Live](https://secure-secrets.vercel.app/) / [GitHub](https://github.com/Shrey42-dot/Secure-Secrets) |
 | Git-Sentinel | A pre-commit security scanner designed to prevent data leaks. It uses regex-based filtering to block API keys and secrets from being committed to GitHub, integrating seamlessly into DevSecOps workflows. | [GitHub](https://github.com/Shrey42-dot/git_sentinel) |
+| Shadow-Pixel | A CLI tool for invisible LSB steganography in RGB images. Secures payloads using AES-256-GCM authenticated encryption for covert communication. | [GitHub](https://github.com/Shrey42-dot/Shadow-Pixel) |
+| Aura Process Guardian | A real-time process anomaly detection system using Z-Score modeling to flag suspicious system behavior, CPU, and memory spikes. | [GitHub](https://github.com/Shrey42-dot/Aura-Process-Guardian) |
 
 ### Byte-Brain
-
 **Technologies Used:** Python, Scikit-learn, PEfile, Machine Learning, Virtual Machine, Kali Linux
 
 ### Secure Secrets
-
 **Technologies Used:** React.js, Node.js, Web Crypto API, Express.js
 
 ### Git-Sentinel
-
 **Technologies Used:** Python, Git Hooks, Regex, DevSecOps
+
+### Shadow-Pixel
+**Technologies Used:** Python, Cryptography, Steganography, AES-256-GCM
+
+### Aura Process Guardian
+**Technologies Used:** Python, psutil, Statistics, Z-Score Modeling
 
 ## 🎓 Education
 
@@ -58,6 +63,16 @@ I am a 3rd Year B.Tech CSE (AIML) student at AKGEC, Ghaziabad. My passion lies a
 *Ajay Kumar Garg Engineering College (AKGEC)*
 
 Pursuing B.Tech in Computer Science and Engineering with a specialization in Artificial Intelligence & Machine Learning. Currently in 3rd Year with a Cumulative SGPA of 7.1 / 10.0.
+
+## 🏆 Achievements & Recognitions
+
+<div align="left">
+
+- 🎉 **GATE 2026 Qualified:** Secured **All India Rank (AIR) 21,846** in Computer Science & IT (CS) as a 3rd-year undergraduate (Score: 381).
+- 🚀 **Bharatiya Antariksh Hackathon 2025:** Delivered solutions addressing national space technology challenges in collaboration with ISRO & Hack2Skill.
+- ☁️ **Google Cloud GenAI Exchange:** Earned multiple Google Cloud Skill Badges in Generative AI and deployed ML applications using Vertex AI.
+
+</div>
 
 ## 💼 Internships
 
