@@ -1,6 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Shrey
+🌐 Portfolio: [shreypandey.tech](https://shreypandey.tech)
 
 ### Security Researcher | AI & ML Enthusiast | GATE '26 Qualified | Fullstack Developer | B.Tech CSE(AI ML) Student
 
@@ -17,6 +18,7 @@ I am a 3rd Year B.Tech CSE (AIML) student at AKGEC, Ghaziabad. My passion lies a
 - 🔭 I'm currently working on [**Bio-Sentinel-Core**](https://github.com/Shrey42-dot/Bio-Sentinel-Core)
 - 👯 I'm looking to collaborate on **AI-driven Threat Detection Tools**
 - 🤝 I'm looking for help with [**Optimizing Biometric Inference Models**](https://github.com/Shrey42-dot/Bio-Sentinel-Core)
+- 📄 Currently collaborating on **research papers** in AI & Cybersecurity with faculty mentors
 
 </div>
 
@@ -24,7 +26,7 @@ I am a 3rd Year B.Tech CSE (AIML) student at AKGEC, Ghaziabad. My passion lies a
 
 <div align="left">
 
-- 🌱 I'm currently learning **Adversarial Machine Learning & Advanced Malware Analysis, Cyber Security tools and advanced full stack development. I am also interested in Research work and currently working on research papers as well.**
+- 🌱 I'm currently learning **Adversarial Machine Learning & Advanced Malware Analysis, Cyber Security tools and advanced full stack development. I am actively involved in academic research, collaborating with senior faculty members on research papers in AI, cybersecurity, and related domains, along with building side projects to complement my research work.**
 
 </div>
 
@@ -37,6 +39,7 @@ I am a 3rd Year B.Tech CSE (AIML) student at AKGEC, Ghaziabad. My passion lies a
 | Git-Sentinel | A pre-commit security scanner designed to prevent data leaks. It uses regex-based filtering to block API keys and secrets from being committed to GitHub, integrating seamlessly into DevSecOps workflows. | [GitHub](https://github.com/Shrey42-dot/git_sentinel) |
 | Shadow-Pixel | A CLI tool for invisible LSB steganography in RGB images. Secures payloads using AES-256-GCM authenticated encryption for covert communication. | [GitHub](https://github.com/Shrey42-dot/Shadow-Pixel) |
 | Aura Process Guardian | A real-time process anomaly detection system using Z-Score modeling to flag suspicious system behavior, CPU, and memory spikes. | [GitHub](https://github.com/Shrey42-dot/Aura-Process-Guardian) |
+| Personal Portfolio | My personal developer portfolio showcasing projects, skills, and research work. Built using Next.js and explored vibe coding using Cursor & Antigravity. | [Live](https://shreypandey.tech) |
 
 ### Byte-Brain
 **Technologies Used:** Python, Scikit-learn, PEfile, Machine Learning, Virtual Machine, Kali Linux
@@ -97,7 +100,7 @@ Completed intensive Generative AI training and successfully deployed Machine Lea
 
 <div align="center">
 
-*I am eager to learn advanced cyber security and machine learning along with full stack development. i am interested in research work and currently working on a research paper as well.*
+*I am eager to learn advanced cyber security and machine learning along with full stack development. **I actively explore research in AI & cybersecurity and collaborate on research papers alongside building practical security-focused projects**.*
 
 </div>
 
@@ -105,7 +108,8 @@ Completed intensive Generative AI training and successfully deployed Machine Lea
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shrey42-dot)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/www.linkedin.com/in/shrey-pandey-)&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shrey_pandey___/)&nbsp;&nbsp;&nbsp;[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/https://codeforces.com/profile/shrey__pandey)&nbsp;&nbsp;&nbsp;[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/https://leetcode.com/u/shrey__pandey_/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shrey42-dot)&nbsp;&nbsp;&nbsp;
+🌐 Portfolio: https://shreypandey.tech; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/www.linkedin.com/in/shrey-pandey-)&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shrey_pandey___/)&nbsp;&nbsp;&nbsp;[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/https://codeforces.com/profile/shrey__pandey)&nbsp;&nbsp;&nbsp;[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/https://leetcode.com/u/shrey__pandey_/)
 
 </div>
 
@@ -121,7 +125,7 @@ Completed intensive Generative AI training and successfully deployed Machine Lea
 
 ### 💻 Frontend Development
 
-<img src="https://cdn.simpleicons.org/html5/E34F26?size=32" alt="HTML5"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/css3/1572B6?size=32" alt="CSS3"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4?size=32" alt="Tailwind CSS"  />
+<img src="https://cdn.simpleicons.org/html5/E34F26?size=32" alt="HTML5"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/css3/1572B6?size=32" alt="CSS3"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4?size=32" alt="Tailwind CSS"  /> Next.js
 
 ### 💻 Backend Development
 
@@ -138,10 +142,14 @@ Completed intensive Generative AI training and successfully deployed Machine Lea
 ### 💻 DevOps
 
 <img src="https://cdn.simpleicons.org/amazonaws/232F3E?size=32" alt="AWS"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/googlecloud/4285F4?size=32" alt="Google Cloud"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/microsoftazure/0078D4?size=32" alt="Azure"  />
+### 💻 Tools & Workflow
+
+Cursor, Antigravity, Vibe Coding
+
 
 ### 💻 Other
 
-<img src="https://cdn.simpleicons.org/linux/FCC624?size=32" alt="Linux"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/git/F05032?size=32" alt="Git"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/arduino/00979D?size=32" alt="Arduino"  />
+<img src="https://cdn.simpleicons.org/linux/FCC624?size=32" alt="Linux"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/git/F05032?size=32" alt="Git"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/arduino/00979D?size=32" alt="Arduino"  /> 
 
 ## 📊 GitHub Stats & Activity
 
